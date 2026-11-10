@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import pydot
 
 # use dictionary as adjacency list
